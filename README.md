@@ -26,7 +26,3 @@ Now all initial setups are done. By clicking Track Image button camera of runnin
 
 
 
-## Support Me
-If you liked this, leave a star! :star:
-
-If you liked this and also liked my other work, be sure to follow me for more! :slightly_smiling_face:
